@@ -1,0 +1,2 @@
+# HandWrittenDigitRecognitionUsingANN
+Dataset: MNIST
